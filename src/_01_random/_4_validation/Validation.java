@@ -18,6 +18,16 @@ public class Validation {
 
 		// 1. Use each value of randomNumber to give the user a random compliment.
 
+		if (randomNumber == 1) 
+			JOptionPane.showMessageDialog(null, "I hope you haave a good day1");
+		if (randomNumber == 2)
+			JOptionPane.showMessageDialog(null, "I hope you haave a good day2");
+		if (randomNumber == 3)
+			JOptionPane.showMessageDialog(null, "I hope you haave a good day3");
+		if (randomNumber == 4)
+			JOptionPane.showMessageDialog(null, "I hope you haave a good day4");
+		if (randomNumber == 5)
+			JOptionPane.showMessageDialog(null, "I hope you haave a good day5");
 		// 2. Repeat all the code above 10 times
 		
 		// 3. Find someone to test out your program. They will like it :)
